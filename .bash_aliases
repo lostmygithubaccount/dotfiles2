@@ -1,7 +1,7 @@
 # export PATH
 
 # time savers 
-alias vim="nvim"
+#alias vim="nvim"
 alias v="vim"
 alias vi="v"
 alias swps="cd ~/.vim/swps"
